@@ -143,6 +143,7 @@ header {
 .firstpara1 p {
     font-size: 10px;
     line-height: 12px;
+    color: rgb(108, 108, 114);
 }
 
 .firstpara1 h4 {
@@ -782,7 +783,7 @@ footer {
     }
 
     .mainbgimg {
-        height: 150vh;
+        height: 1100px;
     }
 
     .firstpara {
@@ -794,6 +795,18 @@ footer {
         height: 300px;
         width: 330px;
         margin-left: 30px;
+    }
+
+    .box1 {
+        display: flex;
+        text-align: center;
+        justify-content: space-around;
+
+        margin: 30px 0px;
+    }
+
+    .idpic {
+        margin: 21px 10px;
     }
 
     .firstpara1 {
@@ -897,7 +910,7 @@ footer {
     }
 
     .secondbg_img {
-        height: 210vh;
+        height: 1150px;
         margin-bottom: 50px;
     }
 
@@ -995,12 +1008,12 @@ footer {
     }
 
     .like {
-        padding: 10px 15px;
+        padding: 10px 10px;
 
     }
 
     .like1 {
-        padding: 15px 35px;
+        padding: 15px 15px;
 
     }
 
