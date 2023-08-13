@@ -126,8 +126,8 @@ header {
 }
 
 .firstpara1 {
-    height: 270px;
-    width: 370px;
+    height: 250px;
+    width: 350px;
     background-color: #fff;
     padding: 20px;
     margin-top: 15px;
@@ -136,18 +136,18 @@ header {
 
 .firstpara1 h1 {
     color: #5956E9;
-    font-size: 30px;
-    margin-bottom: 10px;
+    font-size: 25px;
+    margin-bottom: 8px;
 }
 
 .firstpara1 p {
-    font-size: 12px;
-    line-height: 15px;
+    font-size: 10px;
+    line-height: 12px;
 }
 
 .firstpara1 h4 {
-    font-size: 18px;
-    margin-top: 20px;
+    font-size: 15px;
+    margin-top: 15px;
 }
 
 .firstpara1 img {
@@ -782,12 +782,12 @@ footer {
     }
 
     .mainbgimg {
-        height: 130vh;
+        height: 150vh;
     }
 
     .firstpara {
         flex-direction: column;
-
+        padding: 0px;
     }
 
     .spacediv {
@@ -880,6 +880,7 @@ footer {
 
     .secondpara {
         flex-direction: column;
+        padding: 20px 0px;
     }
 
     .secondparapage {
